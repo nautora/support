@@ -1,0 +1,63 @@
+name: Bug report
+description: Report a problem with Nautora
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Nautora!
+        ⚠️ **Do not include API keys, tokens, or private server URLs** — this tracker is public.
+  - type: input
+    id: app-version
+    attributes:
+      label: Nautora version
+      placeholder: e.g. 1.0.0
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - iOS / iPadOS
+        - Android
+    validations:
+      required: true
+  - type: input
+    id: os-version
+    attributes:
+      label: OS version
+      placeholder: e.g. iOS 18.5 / Android 15
+  - type: input
+    id: portainer-version
+    attributes:
+      label: Portainer version
+      placeholder: e.g. 2.21.0
+  - type: dropdown
+    id: env-type
+    attributes:
+      label: Environment type
+      options:
+        - Docker
+        - Kubernetes
+        - Both / not sure
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead? Include steps to reproduce.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs (optional)
+      description: From the in-app error log. **Redact any secrets, URLs, and API keys.**
+      render: shell
+  - type: checkboxes
+    id: no-secrets
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have removed API keys, tokens, and private server addresses from this report.
+          required: true
