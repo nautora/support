@@ -7,7 +7,7 @@ permalink: /
 environments from your iPhone, iPad, or Android device.
 
 - 🔒 [**Privacy Policy**](privacy/) — Nautora collects no data.
-- 🐛 [**Report a bug or request a feature**](https://github.com/nautora/nautora.github.io/issues)
+- 🐛 [**Report a bug or request a feature**](https://github.com/nautora/support/issues)
 
 ---
 

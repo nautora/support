@@ -13,7 +13,7 @@ Portainer version so we can help quickly.
 ## 🔒 Privacy
 
 Nautora collects **no** data — no analytics, no tracking, no account, no ads.
-Read the full [**Privacy Policy**](https://nautora.github.io/privacy/) (source: [`docs/privacy.md`](docs/privacy.md)).
+Read the full [**Privacy Policy**](https://nautora.github.io/support/privacy/) (source: [`docs/privacy.md`](docs/privacy.md)).
 
 ## 📥 Get Nautora
 

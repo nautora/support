@@ -60,7 +60,7 @@ app's release notes or in this repository.
 
 ## Contact
 
-Questions or privacy requests: open an issue at [https://github.com/nautora/nautora.github.io/issues](https://github.com/nautora/nautora.github.io/issues).
+Questions or privacy requests: open an issue at [https://github.com/nautora/support/issues](https://github.com/nautora/support/issues).
 
 ---
 
