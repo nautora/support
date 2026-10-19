@@ -9,5 +9,5 @@ Need help with **Nautora**?
 Before filing, please:
 
 1. Update to the latest version of the app.
-2. Include your **Nautora version**, **platform** (iOS / Android), **OS version**, and **Portainer version**.
+2. Include your **Nautora version**, **platform** (iOS / Android / macOS), **OS version**, and **Portainer version**.
 3. **Redact secrets** — never include API keys, tokens, or private server URLs. This tracker is public.

@@ -3,8 +3,8 @@ title: Nautora
 permalink: /
 ---
 
-**Nautora** is a mobile client for [Portainer](https://www.portainer.io/) — manage your Docker and Kubernetes
-environments from your iPhone, iPad, or Android device.
+**Nautora** is a client for [Portainer](https://www.portainer.io/) — manage your Docker and Kubernetes
+environments from your iPhone, iPad, Android device, or Mac.
 
 - 🔒 [**Privacy Policy**](privacy/) — Nautora collects no data.
 - 🐛 [**Report a bug or request a feature**](https://github.com/nautora/support/issues)
