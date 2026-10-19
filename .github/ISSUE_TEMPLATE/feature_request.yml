@@ -19,6 +19,7 @@ body:
     attributes:
       label: Platform
       options:
-        - Both
+        - All platforms
         - iOS / iPadOS
         - Android
+        - macOS

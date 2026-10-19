@@ -21,13 +21,14 @@ body:
       options:
         - iOS / iPadOS
         - Android
+        - macOS
     validations:
       required: true
   - type: input
     id: os-version
     attributes:
       label: OS version
-      placeholder: e.g. iOS 18.5 / Android 15
+      placeholder: e.g. iOS 18.5 / Android 15 / macOS 15
   - type: input
     id: portainer-version
     attributes:

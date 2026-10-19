@@ -8,7 +8,7 @@ permalink: /privacy/
 **Last updated: October 18, 2026**
 
 Nautora ("the app") is a client for [Portainer](https://www.portainer.io/) that lets you manage your own
-Docker and Kubernetes environments from your phone or Mac. This policy explains how the app handles your information.
+Docker and Kubernetes environments from your phone, tablet, or Mac. This policy explains how the app handles your information.
 
 ## The short version
 

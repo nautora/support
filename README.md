@@ -1,6 +1,6 @@
 # Nautora — Support & Privacy
 
-This is the public home for **Nautora**, a [Portainer](https://www.portainer.io/) client for iOS and Android.
+This is the public home for **Nautora**, a [Portainer](https://www.portainer.io/) client for iOS, Android, and macOS.
 The app itself is closed-source; this repository exists so you can **report issues** and read the **privacy policy**.
 
 ## 🐛 Report a bug or request a feature
